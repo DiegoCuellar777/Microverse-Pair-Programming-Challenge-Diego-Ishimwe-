@@ -1,4 +1,10 @@
 
+body{
+    backgroundcolor : White;
+    marginleft : 10%;
+    marginright : 10%; 
+    }
+    
 #nav-bar{
     display: flex;
 }
